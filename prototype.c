@@ -1,6 +1,7 @@
 #include<stdio.h>
 
 //prototyping is way of using function after the main function.
+void randFunc();
 
 int main(int argc, const char** argv) {
 
