@@ -15,6 +15,7 @@ int main(){
     //* then we gotta create a variable based on the structure
     struct student fahimMuntasir;
     
+    //* only then we can assign value to the parameters
     fahimMuntasir.roll = 1601107;
     fahimMuntasir.age = 24;
 
